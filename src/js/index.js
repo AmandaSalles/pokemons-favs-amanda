@@ -1,4 +1,4 @@
-/*alert("✧˖° ♡ Bem Vindos a minha lista de Pokémons Favoritos! ♡ °˖✧"); */
+alert("✧˖° ♡ Bem Vindos a minha lista de Pokémons Favoritos! ♡ °˖✧"); 
 
 const botaoAlterarTema = document.getElementById("botao-alterar-tema");
 
